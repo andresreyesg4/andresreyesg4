@@ -5,6 +5,8 @@ Computer Science major. Currently i'm learning React to build some experience in
 George Mason who is also a Computer Science student. Aside from all the fun projects done as a CS major, I plan to do work on personal projects to keep gaining
 experience on new things.
 
+NOTE: I have several private projects that I cannot make public due to GMU policy, please contact me if intrested in seeing them. 
+
 How to reach me:<br>
 Email: andres.reyes121014@gmail.com
 
