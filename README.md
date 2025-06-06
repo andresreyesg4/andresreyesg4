@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-My name is Andres Reyes, and in my github you will find some of my favorite projects that i have worked on. I will continue to add more projects as I continue looking for interesting projects in the Computer Science field. 
+Andres Reyes here! As a passionate Computer Scientist, I leverage programming to bring ideas to life. This GitHub space features projects I've genuinely enjoyed creating, and I'm actively seeking new challenges to contribute to the broader Computer Science landscape.
 
+- 🔭 I’m currently working on my Wedding Invitation Website
+- 🌱 I’m currently learning Node.js (Express.js) and Vue.js (frontend)
+- 👯 I’m looking to collaborate on any programming project that will satisfy my passion for problem-solving through code. 
 <!--
 **andresreyesg4/andresreyesg4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
